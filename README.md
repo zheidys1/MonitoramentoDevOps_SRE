@@ -37,3 +37,7 @@ Após a correção, a query para medir o uso da conta (`NrUsage`) foi executada 
 O gráfico foi convertido e salvo no dashboard `Monitoramento_SRE_Heidys`, consolidando o ciclo de monitoramento.
 
 ![Print da lista de dashboards mostrando o meu painel criado](img/lista_dashboards.png)
+
+### 📂 Artefatos de Dados
+O resultado bruto da consulta em formato JSON pode ser encontrado na pasta:
+* [Visualizar JSON de saída](./data/query_result.json)
